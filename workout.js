@@ -1,20 +1,4 @@
-
-var buttonid = document.getElementById("btn");
-
-
-function alt(){
-    alert("hi")
+function greeting(phrase, name) {
+  console.log(phrase + " " + name);
 }
-
-alt();
-
-function sayHi() {
-  alert("Hi!-one");
-} // named function
-
-
-
-
-buttonid.addEventListener("click", sayHi);
-buttonid.removeEventListener("click", sayHi);
-
+setTimeout(greeting, 1000, "Hello", "John");
