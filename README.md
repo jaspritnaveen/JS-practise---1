@@ -1,1 +1,31 @@
-Here is my JavaScript WorkOut Problems
+JavaScript Practice
+
+A collection of JavaScript exercises, examples, and mini–projects created for hands-on learning and improving core JS skills. This repository is intended for beginners and intermediate learners who want to strengthen their understanding of JavaScript concepts through practical code.
+
+📌 What’s Inside
+
+Basic syntax & fundamentals (variables, functions, loops, conditionals)
+
+DOM manipulation & events
+
+Array and object practice problems
+
+ES6+ features (arrow functions, spread operators, promises, async/await)
+
+Mini projects and coding challenges
+
+Algorithm & data structure practice (optional)
+
+🎯 Purpose
+
+Build and reinforce JavaScript skills with real examples
+
+Track progress while learning
+
+Experiment with JS features in a sandbox environment
+
+Serve as reference material for future projects
+
+🧠 Requirements
+
+Basic understanding of HTML/CSS (for DOM-related exercises)
