@@ -28,6 +28,3 @@ Experiment with JS features in a sandbox environment
 
 Serve as reference material for future projects
 
-🧠 Requirements
-
-Basic understanding of HTML/CSS (for DOM-related exercises)
