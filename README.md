@@ -26,5 +26,4 @@ Track progress while learning
 
 Experiment with JS features in a sandbox environment
 
-Serve as reference material for future projects
 
