@@ -24,6 +24,6 @@ Build and reinforce JavaScript skills with real examples
 
 Track progress while learning
 
-Experiment with JS features in a sandbox environment
+
 
 
