@@ -22,7 +22,7 @@ Algorithm & data structure practice (optional)
 
 Build and reinforce JavaScript skills with real examples
 
-Track progress while learning
+
 
 
 
