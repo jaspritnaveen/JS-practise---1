@@ -20,7 +20,7 @@ Algorithm & data structure practice (optional)
 
 🎯 Purpose
 
-Build and reinforce JavaScript skills with real examples
+
 
 
 
