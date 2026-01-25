@@ -18,7 +18,6 @@ Map and Filter
 
 Algorithm & data structure practice (optional)
 
-🎯 Purpose
 
 
 
