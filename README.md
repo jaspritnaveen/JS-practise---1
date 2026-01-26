@@ -16,7 +16,7 @@ Mini projects and coding challenges
 
 Map and Filter
 
-Algorithm & data structure practice (optional)
+
 
 
 
