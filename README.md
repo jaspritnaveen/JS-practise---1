@@ -14,7 +14,7 @@ ES6+ features (arrow functions, spread operators, promises, async/await)
 
 Mini projects and coding challenges
 
-Map and Filter
+
 
 
 
