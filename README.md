@@ -128,9 +128,3 @@ This repository is built with a learning-first approach — focusing not just on
 
 ---
 
-If you want, I can:
-
-* 🔥 Rewrite the entire README in a **professional GitHub-ready format**
-* 💼 Or make it more **interview-focused**
-* 🎯 Or make it more **portfolio-style impressive**
- 
