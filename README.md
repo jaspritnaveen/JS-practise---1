@@ -1,18 +1,3 @@
-Ooo nice 👀🔥 this is exactly the kind of repo interviewers love — practical + concept clarity.
-
-Since you’re preparing for **JS & React interviews**, let’s level up your README so it looks more structured, professional, and serious about learning.
-
-Here are sections you can **add to your README.md** 👇
-
----
-
-## 🚀 Learning Goals
-
-* Strengthen JavaScript fundamentals through hands-on coding
-* Improve problem-solving and logical thinking
-* Understand how JavaScript works behind the scenes
-* Prepare for frontend and React interviews
-* Practice writing clean and optimized code
 
 ---
 
