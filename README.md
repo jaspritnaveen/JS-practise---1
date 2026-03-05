@@ -122,9 +122,4 @@ Feel free to fork this repository, improve exercises, or suggest better solution
 
 ---
 
-## ⭐ Why This Repository?
-
-This repository is built with a learning-first approach — focusing not just on writing code, but understanding **how and why JavaScript works the way it does.**
-
----
-
+#
