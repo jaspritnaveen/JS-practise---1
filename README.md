@@ -101,10 +101,4 @@ javascript-practice/
 
 ---
 
-## 🤝 Contributions
 
-Feel free to fork this repository, improve exercises, or suggest better solutions.
-
----
-
-#
