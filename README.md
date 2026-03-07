@@ -81,16 +81,7 @@ javascript-practice/
 └── interview-questions/
 ```
 
----
 
-## 🎯 Interview Preparation Focus
-
-* Frequently asked JavaScript interview questions
-* Code explanation with time & space complexity
-* Edge case handling
-* Clean code practices
-
----
 
 
 
