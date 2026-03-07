@@ -92,13 +92,5 @@ javascript-practice/
 
 ---
 
-## 📈 Future Improvements
-
-* Add TypeScript examples
-* Add unit testing (Jest)
-* Add performance optimization examples
-* Convert mini projects to React
-
----
 
 
