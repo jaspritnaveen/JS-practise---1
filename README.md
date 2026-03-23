@@ -67,20 +67,6 @@
 
 ---
 
-## 📂 Folder Structure
-
-```
-javascript-practice/
-│
-├── basics/
-├── arrays/
-├── objects/
-├── async/
-├── dom/
-├── mini-projects/
-└── interview-questions/
-```
-
 
 
 
